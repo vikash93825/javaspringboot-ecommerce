@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Table of Contents
+## 📋 Table of Content
 
 - [📖 Overview](#overview)
 - [🚀 Getting Started](#getting-started)
